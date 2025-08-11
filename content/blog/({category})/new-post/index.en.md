@@ -11,7 +11,7 @@ description: >-
   projects and experiments.
 date: '2025-08-11'
 authors:
-  - Estee W
+  - default
 category: (Best Practices)
 tags:
   - Sealos
