@@ -174,14 +174,11 @@ This feature is critical for students and developers who rely on consistent envi
 |Full-stack Observability|Needs Grafana/Prometheus integration|✅ Optional but integrated|
 
 
-> Explore More Comparisons: 
-
+Explore More Comparisons: 
 
 > [Sealos vs Railway](https://sealos.io/blog/compare-to-railway) 
 
-
 > [Sealos vs Heroku](https://sealos.io/blog/compare-to-heroku) 
-
 
 > [Sealos vs Google Cloud Run](https://sealos.io/blog/compare-to-cloud-run)
 
