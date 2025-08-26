@@ -1,10 +1,10 @@
 ---
-title: Computer Virus Prevention in Cloud Development Environments with Sealos DevBox
+title: ''
 description: ''
-date: '2025-08-21'
+date: '2025-08-26'
 authors:
-  - esteewoods
-category: ''
+  - default
+category: '({category})'
 tags: []
 lang: en
 ---
